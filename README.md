@@ -1,0 +1,1 @@
+This project involves the development of a Supply Chain Dashboard designed to provide comprehensive insights into product distribution, sales, and logistics. The dashboard is tailored to enhance decision-making and operational efficiency.
